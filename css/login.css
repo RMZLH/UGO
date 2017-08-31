@@ -1,0 +1,159 @@
+@charset "UTF-8";
+/*头部部分*/
+a {
+  text-decoration: none; }
+  a :hover {
+    text-decoration: none; }
+
+#header-content {
+  width: 100%;
+  height: 9%; }
+  #header-content #header-main {
+    width: 68%;
+    margin: 0 auto;
+    overflow: hidden; }
+    #header-content #header-main h1 {
+      width: 152px;
+      float: left;
+      margin: 18px 30px 18px 0; }
+      #header-content #header-main h1 a img {
+        height: 34px; }
+    #header-content #header-main p {
+      float: left;
+      height: 42px;
+      line-height: 42px;
+      padding: 0 30px;
+      margin-top: 15px;
+      color: #666;
+      border-left: 1px solid #e6e6e6; }
+
+/*banner部分*/
+#banner {
+  height: 553px;
+  width: 100%;
+  margin: 0 auto;
+  background: url(../img/banner1.jpg) no-repeat center center;
+  background-size: cover;
+  overflow: hidden; }
+  #banner #banner-main {
+    width: 68%;
+    height: 100%;
+    margin: 0 auto;
+    heihgt: 100%;
+    overflow: hidden; }
+    #banner #banner-main #banner-box {
+      height: 451px;
+      width: 39%;
+      float: right;
+      background: #fff;
+      box-sizing: border-box;
+      margin-top: 53px; }
+      #banner #banner-main #banner-box P {
+        width: 94%;
+        margin: 0 auto; }
+        #banner #banner-main #banner-box P:nth-of-type(1) {
+          height: 40px;
+          line-height: 40px;
+          margin-bottom: 30px;
+          background: #f3f3f3;
+          margin-top: 24px; }
+          #banner #banner-main #banner-box P:nth-of-type(1) a {
+            width: 50%;
+            text-align: center;
+            color: #333;
+            text-align: center;
+            float: left; }
+            #banner #banner-main #banner-box P:nth-of-type(1) a:hover {
+              color: #e60012; }
+          #banner #banner-main #banner-box P:nth-of-type(1) .select {
+            background: #333333;
+            color: #fff; }
+            #banner #banner-main #banner-box P:nth-of-type(1) .select:hover {
+              color: #fff; }
+        #banner #banner-main #banner-box P:nth-of-type(2) {
+          width: 88%;
+          margin-bottom: 6px;
+          overflow: hidden; }
+          #banner #banner-main #banner-box P:nth-of-type(2) a {
+            display: block;
+            text-decoration: underline;
+            color: #666;
+            float: right; }
+            #banner #banner-main #banner-box P:nth-of-type(2) a:hover {
+              color: #e60012; }
+        #banner #banner-main #banner-box P:nth-of-type(3) {
+          width: 88%;
+          margin-bottom: 14px;
+          margin-left: 30px;
+          overflow: hidden; }
+          #banner #banner-main #banner-box P:nth-of-type(3) a {
+            width: 100%;
+            display: block;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            text-indent: 0;
+            background: #e1373a;
+            color: #fff; }
+        #banner #banner-main #banner-box P:nth-of-type(4) {
+          text-align: center;
+          margin-bottom: 15px;
+          color: #999; }
+        #banner #banner-main #banner-box P:nth-of-type(5) {
+          text-align: center;
+          padding-bottom: 80px;
+          color: #999;
+          width: 78%;
+          margin: 0 auto;
+          padding-left: 12px; }
+          #banner #banner-main #banner-box P:nth-of-type(5) b {
+            float: left;
+            padding: 0 6px;
+            line-height: 34px; }
+          #banner #banner-main #banner-box P:nth-of-type(5) a {
+            float: left;
+            margin-right: 6px; }
+      #banner #banner-main #banner-box input {
+        display: block;
+        width: 88%;
+        margin: 0 auto;
+        height: 36px;
+        line-height: 36px;
+        border: 1px solid #e3e2e2;
+        text-indent: 76px;
+        color: #a9a9a9; }
+        #banner #banner-main #banner-box input:nth-of-type(1) {
+          background: url(../img/bg2-1.jpg) no-repeat 12px center;
+          margin-bottom: 28px; }
+        #banner #banner-main #banner-box input:nth-of-type(2) {
+          background: url(../img/bg2-2.jpg) no-repeat 12px center;
+          margin-bottom: 36px; }
+        #banner #banner-main #banner-box input:nth-of-type(3) {
+          height: 40px;
+          line-height: 40px;
+          margin-left: 30px;
+          margin-bottom: 14px;
+          text-align: center;
+          text-indent: 0;
+          background: #e1373a;
+          color: #fff;
+          outline: 0; }
+
+/*尾部部分*/
+#footer {
+  overflow: hidden;
+  height: 12%;
+  width: 100%; }
+  #footer p {
+    width: 68%;
+    color: #b1aabf;
+    text-align: center;
+    margin: 24px auto 76px; }
+    #footer p a {
+      color: #b1aabf; }
+      #footer p a:hover {
+        color: #e60012; }
+
+/*# sourceMappingURL=login.css.map */
+
+/*# sourceMappingURL=login.css.map */

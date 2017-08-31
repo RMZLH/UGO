@@ -1,0 +1,254 @@
+{
+	"content3lf":[
+		
+			{
+				"titleLeft":"户外馆",
+				"titleRight":"&gt;"
+			},
+		
+			{
+				"titleLeft":"运动馆",
+				"titleRight":"&gt;"
+			},	
+			{
+				"titleLeft":"鞋靴馆",
+				"titleRight":"&gt;"
+			},
+			{
+				"titleLeft":"男装馆",
+				"titleRight":"&gt;"
+			},
+			{
+				"titleLeft":"女装馆",
+				"titleRight":"&gt;"
+			},
+			{
+				"titleLeft":"母婴馆",
+				"titleRight":"&gt;"
+			},
+			{
+				"titleLeft":"箱包馆",
+				"titleRight":"&gt;"
+			}
+	],
+	"content3rt":[	
+		{"Nav":[
+				{
+					"dtImg":"../img/dt1.jpg",
+					"ddtitle":"限时抢¥194",
+					"ptitle":"The North Face乐斯菲斯 专柜同款17春夏新品男子T恤 NF0A2SM3DYZ1",
+					"price1":"￥194",
+					"price2":"￥298"					
+				},
+				{
+					"dtImg":"../img/dt2.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"TThe North Face乐斯菲斯 专柜同款17春夏新品女子T恤 NF0A2XVFPKC1",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt3.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"The North Face乐斯菲斯 专柜同款女子舒适保暖可拆卸抓绒上衣2UECJK3",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt4.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"The North Face乐斯菲斯 专柜同款17春夏新品男子运动休闲鞋 NF0A2Y9X1",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt5.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"NIKE耐克2017年新款男子NIKE ROSHE TWO复刻鞋844656-003",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt6.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"Onitsuka Tiger鬼冢虎 2017延续款MEXICO 66 SLIP-ON系列中性休闲鞋TH1B2N-0143",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt7.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"NIKE耐克2017年新款男子NIKE ARROWZ复刻鞋902813-001",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt8.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"NIKE耐克2017年新款男子NSW POLO PQ MATCHUPPOLO衫829361-063",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt9.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"NIKE耐克2017年新款男子NIKE ROSHE TWO复刻鞋844656-003",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt10.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"Onitsuka Tiger鬼冢虎 2017延续款MEXICO 66 SLIP-ON系列中性休闲鞋TH1B2N-0143",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt11.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"NIKE耐克2017年新款男子NIKE ARROWZ复刻鞋902813-001",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt11.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"NIKE耐克2017年新款男子NSW POLO PQ MATCHUPPOLO衫829361-063",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt13.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"MEXICAN/稻草人 2017夏季新款男士时尚个性印花潮流圆领棉短袖T恤男JJSM8001",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt13.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"MEXICAN/稻草人 2017秋季新款时尚个性百搭休闲简约潮流男士夹克YRT518",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt15.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"卡郎琪 男士2017年夏季新款男牛仔裤小脚修身牛仔九分裤潮 乞丐破洞韩版学生青少",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt16.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"MEXICAN/稻草人 2017春夏天然棉男韩版修身牛仔裤九分裤MF8017",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt17.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"MEXICAN/稻草人 2017夏季新款男士时尚个性印花潮流圆领棉短袖T恤男JJSM8001",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt18.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"MEXICAN/稻草人 2017秋季新款时尚个性百搭休闲简约潮流男士夹克YRT518",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt19.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"卡郎琪 男士2017年夏季新款男牛仔裤小脚修身牛仔九分裤潮 乞丐破洞韩版学生青少",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt20.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"MEXICAN/稻草人 2017春夏天然棉男韩版修身牛仔裤九分裤MF8017",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt3.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"MEXICAN/稻草人 2017夏季新款男士时尚个性印花潮流圆领棉短袖T恤男JJSM8001",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt6.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"MEXICAN/稻草人 2017秋季新款时尚个性百搭休闲简约潮流男士夹克YRT518",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt7.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"卡郎琪 男士2017年夏季新款男牛仔裤小脚修身牛仔九分裤潮 乞丐破洞韩版学生青少",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt8.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"MEXICAN/稻草人 2017春夏天然棉男韩版修身牛仔裤九分裤MF8017",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		},
+		{"Nav":[
+				{
+					"dtImg":"../img/dt21.jpg",
+					"ddtitle":"限时抢¥455",
+					"ptitle":"MEXICAN/稻草人 2017夏季新款男士时尚个性印花潮流圆领棉短袖T恤男JJSM8001",
+					"price1":"¥455",
+					"price2":"￥649"					
+				},
+				{
+					"dtImg":"../img/dt22.jpg",
+					"ddtitle":"限时抢¥136",
+					"ptitle":"MEXICAN/稻草人 2017秋季新款时尚个性百搭休闲简约潮流男士夹克YRT518",
+					"price1":"￥136",
+					"price2":"￥248"					
+				},
+				{
+					"dtImg":"../img/dt23.jpg",
+					"ddtitle":"限时抢¥384",
+					"ptitle":"卡郎琪 男士2017年夏季新款男牛仔裤小脚修身牛仔九分裤潮 乞丐破洞韩版学生青少",
+					"price1":"¥384",
+					"price2":"￥698"					
+				},
+				{
+					"dtImg":"../img/dt20.jpg",
+					"ddtitle":"限时抢¥519",
+					"ptitle":"MEXICAN/稻草人 2017春夏天然棉男韩版修身牛仔裤九分裤MF8017",
+					"price1":"¥519",
+					"price2":"￥798"					
+				}		
+				]
+		}
+			
+	]
+}
